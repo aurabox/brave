@@ -8,7 +8,11 @@ Monorepo playground where lies all latest tooling and frameworks to build digita
 - yarn >= 1.22.0 - [yarnpkg.com](https://yarnpkg.com/getting-started/install)
 - expo >= 3.0.0 - [docs.expo.io](https://docs.expo.io)
 
-Are you on linux, mac or wsl? Have your heard of [**asdf**](https://asdf-vm.com)? Google it... thank me later.
+Are you on linux, mac or wsl? Have your heard of [**asdf**](https://asdf-vm.com)? Google it...
+
+If you find it good, so, do you will for [**direnv**](https://direnv.net/)
+
+Thank us later. 👍
 
 ## 🚀 Getting Started
 
