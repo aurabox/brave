@@ -6,7 +6,10 @@
   "author": "Diego Lameira <diegolameira@me.com>",
   "license": "MIT",
   "private": true,
-  "workspaces": [],
+  "workspaces": [
+    "apps/*",
+    "pkgs/*"
+  ],
   "scripts": {
     "example:develop": "expo:start neutron:start nestjs:start",
     "example:test": "expo:test neutron:test nestjs:test",
