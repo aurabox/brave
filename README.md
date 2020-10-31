@@ -28,13 +28,13 @@ yarn test:watch
 Firstly, let's have look over the folders structure so you understand and get more confident to work with.
 
 ```
-/apps        <--- Some app samples
-  /expo      <--- React Native Expo
-  /flutter   <--- Flutter
-  /neutron   <--- React SPA with duck pattern (redux, saga)
-  /nextjs    <--- NextJS (SSR) for SEO friendly apps/websites
-  /nestjs    <--- NEST (not Next) for API (recommended)
-  /strapi    <--- Strapi for APIs with builtin backoffice
+/apps           <--- Some app samples
+  /expo         <--- React Native Expo
+  /appflutter   <--- Flutter app, run your own
+  /neutron      <--- React SPA with duck pattern (redux, saga)
+  /nextjs       <--- NextJS (SSR) for SEO friendly apps/websites
+  /nestjs       <--- NEST (not Next) for API (recommended)
+  /strapi       <--- Strapi for APIs with builtin backoffice
 
   ############# OVER CONSIDERATIONS #############
   /netcore   <--- NetCore API (if you want too)
