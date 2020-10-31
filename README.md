@@ -2,7 +2,7 @@
 
 Monorepo playground where lies all latest tooling and frameworks to build digital products
 
-## Minimum Requirements
+## 📋 Minimum Requirements
 
 - node >= 12.0.0 - [nodejs.org](https://nodejs.org/)
 - yarn >= 1.22.0 - [yarnpkg.com](https://yarnpkg.com/getting-started/install)
@@ -68,7 +68,7 @@ Please let us remind you to take a look over the project yourself before playing
 
 Just keep in mind that we recommend you to set your common packages (used by apps) on /pkgs
 
-### Configure
+## ⚙️ Configure
 
 Then now its time to setup your needs, choose which apps will your use.
 
@@ -115,7 +115,7 @@ Both ways you going to install only needed third party dependencies.
 
 You can now duplicate an app or pkg to fit your needs, rename its directory and package.name and update your root scripts.
 
-## TROUBLESHOOTING
+## 🐛 TROUBLESHOOTING
 
 If you change something after first install, maybe workspaces did make a mess with dependencies and you get some failure running package scripts, specially if you running React Native app.
 
@@ -130,15 +130,18 @@ rm -rf node_modules
 rmdir node_modules /s /q
 ```
 
-## Roadmap
+## 🏁 Roadmap
 
 ## Urgent
 
 - [x] move local husky, formatter and linters (neutron)
 
+## Goodies
+
+
 ### Apps
 
-- [ ] set neutron typescript enabled
+- [ ] set expo, neutron, next typescript enabled
 - [ ] add common used scripts to needed
 
 ### Pkgs
@@ -147,10 +150,13 @@ rmdir node_modules /s /q
 
 ### DX - Developer Experience
 
+- [ ] set resolutions on root package to solve dependencies
 - [ ] eslint for linting
 - [ ] prettier for formatting (watch for eslint colision)
 - [ ] husky for DX (a step for lint and prettier in commiting)
 - [ ] .vscode files
+- [x] create docker-compose
+- [ ] improve readme documentation - docker, etc
 
 ### Test
 
