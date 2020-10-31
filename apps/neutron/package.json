@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Diego Lameira <diegolameira@me.com>",
   "scripts": {
-    "start": "craco start",
+    "start": "SKIP_PREFLIGHT_CHECK=true craco start",
     "build": "craco build",
     "test": "craco test"
   },
