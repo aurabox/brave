@@ -117,4 +117,28 @@ rm -rf node_modules
 rmdir node_modules /s /q
 ```
 
-###
+## Roadmap
+
+## Urgent
+
+- [ ] remove local husky, formatter and linters (neutron)
+
+### Apps
+
+- [ ] set neutron typescript enabled
+- [ ] add common used scripts to needed
+
+### Pkgs
+
+- [ ] build the react designsystem with post
+
+### DX - Developer Experience
+
+- [ ] eslint for linting
+- [ ] prettier for formatting (watch for eslint colision)
+- [ ] husky for DX (a step for lint and prettier in commiting)
+- [ ] .vscode files
+
+### Test
+
+- [ ] set test tooling for project
