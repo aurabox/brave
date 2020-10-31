@@ -121,7 +121,7 @@ rmdir node_modules /s /q
 
 ## Urgent
 
-- [ ] remove local husky, formatter and linters (neutron)
+- [x] move local husky, formatter and linters (neutron)
 
 ### Apps
 
