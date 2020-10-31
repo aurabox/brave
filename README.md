@@ -23,6 +23,19 @@ yarn develop
 yarn test:watch
 ```
 
+### Additional step for strapi apps
+
+1) generate a UUID v4
+https://www.uuidgenerator.net/version4
+
+2) past into strapi/package.json like this
+
+```json
+"strapi": {
+  "uuid": "PAST_YOUR_UUID_HERE"
+},
+```
+
 ## 📖 Understanding
 
 Firstly, let's have look over the folders structure so you understand and get more confident to work with.
