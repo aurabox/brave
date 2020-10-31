@@ -1,6 +1,6 @@
 # Aurabox Playground
 
-Monorepo playground where lies all latest tooling and frameworks to build digital products
+Aurabox Playground (monorepo) where lies all latest tooling and frameworks to build digital products
 
 ## 📋 Minimum Requirements
 

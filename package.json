@@ -1,7 +1,7 @@
 {
   "name": "@aurabox/brave",
   "version": "0.0.0",
-  "description": "Aurabox playground for development of great products",
+  "description": "Aurabox Playground (monorepo) where lies all latest tooling and frameworks to build digital products",
   "main": "index.js",
   "author": "Diego Lameira <diegolameira@me.com>",
   "license": "MIT",
