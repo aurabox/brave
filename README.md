@@ -100,7 +100,7 @@ No need to remove nothing, just add strict used workspaces.
 
 Both ways you going to install only needed third party dependencies.
 
-You can now duplicate an app or pkg to fit your needs.
+You can now duplicate an app or pkg to fit your needs, rename its directory and package.name and update your root scripts.
 
 ## TROUBLESHOOTING
 
