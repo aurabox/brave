@@ -1,0 +1,38 @@
+{
+  "name": "@aurabox/brave",
+  "version": "0.0.0",
+  "description": "Aurabox playground for development",
+  "main": "index.js",
+  "author": "Diego Lameira <diegolameira@me.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [],
+  "scripts": {
+    "example:develop": "expo:start neutron:start nestjs:start",
+    "example:test": "expo:test neutron:test nestjs:test",
+    "example:test:watch": "expo:test:watch neutron:test:watch nestjs:test:watch",
+
+    "expo:start": "yarn workspace @aurabox/expo start",
+    "neutron:start": "yarn workspace @aurabox/neutron start",
+    "nextjs:dev": "yarn workspace @aurabox/nextjs dev",
+    "nestjs:start": "yarn workspace @aurabox/nestjs start",
+    "strapi:develop": "yarn workspace @aurabox/strapi develop",
+
+    "expo:test": "yarn workspace @aurabox/expo test",
+    "neutron:test": "yarn workspace @aurabox/neutron test",
+    "nextjs:test": "yarn workspace @aurabox/nextjs test",
+    "nestjs:test": "yarn workspace @aurabox/nestjs test",
+    "strapi:test": "yarn workspace @aurabox/strapi test",
+
+    "expo:test:watch": "yarn workspace @aurabox/expo test -- --watch",
+    "neutron:test:watch": "yarn workspace @aurabox/neutron test -- --watch",
+    "nextjs:test:watch": "yarn workspace @aurabox/nextjs test -- --watch",
+    "nestjs:test:watch": "yarn workspace @aurabox/nestjs test -- --watch",
+    "strapi:test:watch": "yarn workspace @aurabox/strapi test -- --watch",
+
+    "develop": "echo watch out, read package to write your develop script",
+    "test": "echo watch out, read package to write your test script",
+    "test:watch": "echo watch out, read package to write your watch test script"
+  },
+  "config": {}
+}
