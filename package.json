@@ -8,12 +8,12 @@
   "private": true,
   "workspaces": [
     "apps/expo",
-    "apps/neutron",
+    "apps/nextjs",
     "apps/nestjs",
     "pkgs/*"
   ],
   "scripts": {
-    "example:develop": "run-p expo:start neutron:start nestjs:start",
+    "example:develop": "run-p expo:start nestjs:start nextjs:dev",
     "example:test": "run-s expo:test neutron:test nestjs:test",
     "example:test:watch": "run-p expo:test:watch neutron:test:watch nestjs:test:watch",
     "expo:start": "yarn workspace @aurabox/expo start",

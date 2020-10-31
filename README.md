@@ -140,9 +140,6 @@ rmdir node_modules /s /q
 
 - [x] move local husky, formatter and linters (neutron)
 
-## Goodies
-
-
 ### Apps
 
 - [ ] set expo, neutron, next typescript enabled
