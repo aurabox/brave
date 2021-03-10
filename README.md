@@ -175,7 +175,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/diegolameira"><img src="https://avatars.githubusercontent.com/u/1857527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Lameira</b></sub></a><br /><a href="https://github.com/aurabox/brave/commits?author=diegolameira" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/diegolameira"><img src="https://avatars.githubusercontent.com/u/1857527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Lameira</b></sub></a><br /><a href="https://github.com/aurabox/brave/commits?author=diegolameira" title="Code">💻</a> <a href="#design-diegolameira" title="Design">🎨</a> <a href="#ideas-diegolameira" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
