@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "diegolameira",
+      "name": "Diego Lameira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1857527?v=4",
+      "profile": "https://github.com/diegolameira",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "brave",
+  "projectOwner": "aurabox",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
